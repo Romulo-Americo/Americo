@@ -7,12 +7,12 @@
 
 /* variable */
 :root{
-    --main-color:#F23869;
+    --main-color: #eea722;
     --main-text-color: #FFF;
     --border-color: #999;
-    --bio-bg-color: #110559;
-    --bio-border-color: #660273;
-    --about-bg-color:#030226;
+    --bio-bg-color: #111611;
+    --bio-border-color:#eea722;
+    --about-bg-color:#000000;
 }
 
 /* general */
